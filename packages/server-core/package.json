@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "@triplit/db": "workspace:^",
-    "jose": "^4.15.4"
+    "jose": "^4.15.5"
   },
   "devDependencies": {
     "@triplit/types": "workspace:^",
